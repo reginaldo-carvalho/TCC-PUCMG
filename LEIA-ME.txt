@@ -1,0 +1,5 @@
+Antes de utilizar os artefatos, certifique-se de que os arquivos disponíveis na pasta 'Base de dados' estão corretamente endereçados em seu terminal.
+
+Caso seja necessário, indique novamente o local dos arquivos no PowerBI e/ou código Python.
+
+Obrigado!
